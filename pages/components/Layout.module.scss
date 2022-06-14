@@ -1,0 +1,15 @@
+$headerH: 60px;
+.header {
+  position: fixed;
+  height: $headerH;
+  z-index: 10;
+}
+
+.main {
+  // padding: $headerH 20px;
+}
+
+.footer {
+  background-color: #ccc;
+}
+
